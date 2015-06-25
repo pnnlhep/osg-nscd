@@ -1,3 +1,3 @@
 #!/bin/bash -e
 
-/usr/sbin/nscd
+/usr/sbin/nscd -d
